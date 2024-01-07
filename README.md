@@ -1,3 +1,7 @@
+# DZK Wallet
+
+DZkWallet is a DeFi solution that allows users to store, manage, and transact their crypto assets in a secure, private, and efficient way. DZkWallet uses blockchain technology and zero-knowledge proofs (ZKPs) to ensure the security, transparency, and anonymity of the wallet operations and the user data.
+
 # Advanced Sample Hardhat Project
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
